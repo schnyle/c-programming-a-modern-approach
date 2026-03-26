@@ -1,3 +1,3 @@
 # C Programming: A Modern Approach
 
-### by K N King
+### by K. N. King
